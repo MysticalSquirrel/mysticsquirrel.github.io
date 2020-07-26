@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Mystic Squirrel Entertainments
 
-You can use the [editor on GitHub](https://github.com/MysticalSquirrel/mysticsquirrel.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Who are we?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mystic Squirrel Entertainments is a company made by Jordan Audet-Savard and is centered around making games, movies, and so on for the sole purpose of entertaining their community in content that the said community actually wanted or in its majority would appreciate and even like in some cases. Currently the company is ran and operated by its only creator with no one else employed or working along the creator. In shorter terms, this is a one-man company.
 
-### Markdown
+### Current members of the team:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> 1. Jordan Audet-Savard - Big boss.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### What titles are associated with our name:
 
-- Bulleted
-- List
+> 1. There are currently no released titles associated with us, but it is being worked upon on a daily basis.
 
-1. Numbered
-2. List
+### Planned content or titles:
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MysticalSquirrel/mysticsquirrel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> 1. Currently Unnamed Unreal Engine 4 RPG concept - A game in a similar gameplay style seen in games such as Ghost of Tsushima or The legend of Zelda series.
+> 2. Factonear - A factory based 2D game similar to games like Satisfactory or Factorio but in a more simplistic style with further focus on the factory part of the game.
