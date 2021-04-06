@@ -15,5 +15,5 @@ Mystic Squirrel Entertainments is a company made by Jordan Audet-Savard and is c
 
 ### Planned content or titles:
 
-> 1. Currently Unnamed Unreal Engine 4 RPG concept - A game in a similar gameplay style seen in games such as Ghost of Tsushima or The legend of Zelda series.
-> 2. Factonear - A factory based 2D game similar to games like Satisfactory or Factorio but in a more simplistic style with further focus on the factory part of the game.
+> 1. A custom map generator that generates actual quality world maps or drawings of areas for tabletop games like Dungeons & Dragons.
+> 2. A spy game.
