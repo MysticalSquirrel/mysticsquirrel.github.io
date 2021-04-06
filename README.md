@@ -8,7 +8,7 @@ Mystic Squirrel Entertainments is a company made by Jordan Audet-Savard and is c
 
 > 1. Jordan Audet-Savard - Big boss.
 
-## What me did and are doing
+## What we worked on and our plans for the future
 
 ### What titles are associated with our name:
 
