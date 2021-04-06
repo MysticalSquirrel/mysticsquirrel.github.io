@@ -2,7 +2,7 @@
 
 ## Who we are
 
-Mystic Squirrel Entertainments is a company made by Jordan Audet-Savard and is centered around making games, movies, and so on for the sole purpose of entertaining their community with content that was actually requested in its majority. Currently the company is ran and operated by its only creator with no one else employed or working along the creator. In shorter terms, this is a one-man company.
+Mystic Squirrel Entertainments is a company made by Jordan Audet-Savard and is centered around making games, movies, and so on for the sole purpose of entertaining their community with content that was actually requested in its majority. Currently the company is ran and operated by its only creator with no one else employed or working along the creator. In shorter terms, this is a one-man company that listens to the community.
 
 ### Current members of the team:
 
